@@ -1,15 +1,15 @@
 // VannMrtnz portfolio — public frontend + protected admin via Supabase Auth/RLS.
 const CONFIG = {
-  supabaseUrl: "https://YOUR_PROJECT_ID.supabase.co",
+  supabaseUrl: "https://dbxuythpopqjlecpppks.supabase.co",
   // Use Supabase publishable/anon key only. Never place service_role keys here.
-  supabaseAnonKey: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY",
+  supabaseAnonKey: "sb_publishable_wqgmFL_LnuixXL8QagtCCw_4dzQE1rS",
   profile: {
     instagram: "Vannmrtnzz",
     instagramUrl: "https://instagram.com/Vannmrtnzz",
-    email: "hello@example.com",
-    githubUrl: "https://github.com/YOUR_USERNAME",
-    whatsappNumber: "6280000000000", // country code + number, digits only
-    linkedinUrl: "https://www.linkedin.com/in/YOUR_USERNAME/"
+    email: "ervannmrtinez@gmail.com",
+    githubUrl: "https://github.com/ervannmrtinez",
+    whatsappNumber: "6283831224540", // country code + number, digits only
+    linkedinUrl: "https://www.linkedin.com/in/ervannmrtinez/"
   }
 };
 const $ = (selector) => document.querySelector(selector);
